@@ -9,17 +9,17 @@ param(
 $ErrorActionPreference = "Stop"
 
 # Global variables
-$launcherParametersFile = "..\parameters.json"
+# $launcherParametersFile = "..\parameters.json"
 
 # Default global values, overriden by user in parameters.json file
-$a3RootPath = 'C:\Program Files (x86)\Steam\steamapps\common\Arma 3\'
-$serverExeName = "arma3server_x64.exe"
+$a3RootPath = '%arma3%/'
+$serverExeName = "arma3_x64.exe"
 $port = 2302
 
 # Relative paths to server config files
 $presetsFolder = "..\presets\"
 $serverConfigPath = "..\config\server.cfg"
-$basicConfigPath = "..\config\basic.cfg"
+$basicConfigPath = "..\config\gfx.cfg"
 $profileName = $env:a3name
 $profilesPath = "..\profiles"
 
@@ -54,7 +54,7 @@ function Launch()
 {
     Set-WindowTitle
 
-    $launcherParameters = Read-LauncherParametersFile $launcherParametersFile
+#   $launcherParameters = Read-LauncherParametersFile $launcherParametersFile
 
     $a3RootPath = $launcherParameters.Arma3RootPath
     $serverExeName = $launcherParameters.ServerExeName
