@@ -12,7 +12,7 @@ $ErrorActionPreference = "Stop"
 # $launcherParametersFile = "..\parameters.json"
 
 # Default global values, overriden by user in parameters.json file
-$a3RootPath = '%arma3%/'
+$a3RootPath = "$env:arma3/"
 $serverExeName = "arma3server_x64.exe"
 $port = 2302
 
@@ -56,9 +56,9 @@ function Launch()
 
 #   $launcherParameters = Read-LauncherParametersFile $launcherParametersFile
 
-    $a3RootPath = $launcherParameters.Arma3RootPath
-    $serverExeName = $launcherParameters.ServerExeName
-    $port = $launcherParameters.Port
+    $a3RootPath = "$env:arma3/"
+    $serverExeName = "arma3server_x64.exe"
+    $port = 2302
     $webhook = $launcherParameters.Webhook
     $executeWebhook = $webhook.Enabled
 
