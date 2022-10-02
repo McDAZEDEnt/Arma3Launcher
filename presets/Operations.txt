@@ -1,15 +1,17 @@
 3den Enhanced
-CBA_A3
 Accurate Arsenal-Eden Icons
-ace_x
+ace
 ACE Interaction Menu Expansion
+ace_x
 Align
 Arsenal Search
+CBA_A3
 CUP Terrains - Core
 CUP Terrains - Maps
 CUP Terrains - Maps 2.0
 Devas Autopilot Mod
 Digital Kompass
+Disable 3den Mission Preview Shortcut
 Drongos Config Generator
 Drongos Map Population
 Drongos Smooth Operators
@@ -21,6 +23,7 @@ Enhanced Movement
 Enhanced Movement Rework
 Enhanced Soundscape
 Fawks' Enhanced NVGs
+FileXT
 Immerse
 JSRS SOUNDMOD
 LAMBS_Danger.fsm
@@ -30,16 +33,20 @@ LAMBS_Suppression
 LAMBS_Turrets
 Light Blue Water Colour Mod
 Looting Enhanced
+m3mory
+Map Object Finder
 memory
 MRB Air Visibility
 MRB Vehicle Visibility
 New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
 NR6
-$ PERSIST - RCO
+NR6 PACK - HAL Evolved
 PERSIST - RCO
 Plane Turbulence
+POLPOX's Base Functions
 Project SFX- Remastered
+Real Engine
 Real Lighting and Weather
 Realengine
 Reduced Haze Mod v3.1
@@ -49,5 +56,15 @@ RHSSAF
 RHSUSAF
 SEM
 Simple Craters
+Spotted Enemy Markers
 Spyder Addons
 Suppress
+USAF Mod - Fighters
+USAF Mod - Main
+USAF Mod - Utility
+USAF_AC130_BETA
+Vindicta (Alpha)
+Whiplash Static Animations
+ZEC - Zeus and Eden Templates - Building Compositions
+ZEI - Zeus and Eden Interiors
+ZL2 Static Poses
