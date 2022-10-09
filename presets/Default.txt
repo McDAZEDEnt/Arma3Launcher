@@ -38,7 +38,7 @@ MRB Air Visibility
 MRB Vehicle Visibility
 New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
-NR6
+NR6 PACK - HAL Evolved
 PERSIST - RCO
 Plane Turbulence
 POLPOX's Base Functions

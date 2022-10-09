@@ -22,7 +22,7 @@ memory
 Map Object Finder
 MRB Air Visibility
 MRB Vehicle Visibility
-NR6
+NR6 PACK - HAL Evolved
 PERSIST - RCO
 POLPOX's Base Functions
 Realengine
