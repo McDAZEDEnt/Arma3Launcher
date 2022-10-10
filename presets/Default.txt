@@ -4,6 +4,7 @@ Accurate Arsenal-Eden Icons
 ace_x
 ACE Interaction Menu Expansion
 Align
+ALiVE
 Arsenal Search
 CUP Terrains - Core
 CUP Terrains - Maps

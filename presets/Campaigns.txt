@@ -1,8 +1,5 @@
-3den Enhanced
 CBA_A3
 Accurate Arsenal-Eden Icons
-ace_x
-ACE Interaction Menu Expansion
 Align
 CUP Terrains - Core
 CUP Terrains - Maps
@@ -15,22 +12,15 @@ Enhanced Movement
 Enhanced Movement Rework
 Enhanced Soundscape
 Fawks' Enhanced NVGs
-FileXT
 Immerse
 JSRS SOUNDMOD
-LAMBS_Danger.fsm
-LAMBS_RPG
-LAMBS_RPG_RHS
-LAMBS_Suppression
-LAMBS_Turrets
 Light Blue Water Colour Mod
-Looting Enhanced
 memory
 MRB Air Visibility
 MRB Vehicle Visibility
 New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
-PERSIST - RCO
+Plane Turbulence
 Project SFX- Remastered
 Realengine
 Real Lighting and Weather
@@ -41,6 +31,4 @@ RHSSAF
 RHSUSAF
 Simple Craters
 SEM
-Spyder Addons
 Suppress
-Vindicta (Alpha)

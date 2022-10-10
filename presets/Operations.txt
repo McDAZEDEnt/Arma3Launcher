@@ -4,7 +4,6 @@ Accurate Arsenal-Eden Icons
 ace_x
 ACE Interaction Menu Expansion
 Align
-Arsenal Search
 CUP Terrains - Core
 CUP Terrains - Maps
 CUP Terrains - Maps 2.0
@@ -37,7 +36,6 @@ New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
 NR6 PACK - HAL Evolved
 PERSIST - RCO
-$ PERSIST - RCO
 Plane Turbulence
 Project SFX- Remastered
 Realengine

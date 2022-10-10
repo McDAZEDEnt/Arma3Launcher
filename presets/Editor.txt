@@ -2,6 +2,8 @@
 CBA_A3
 Accurate Arsenal-Eden Icons
 ace_x
+ACE Interaction Menu Expansion
+ALiVE
 Arsenal Search
 CUP Terrains - Core
 CUP Terrains - Maps
@@ -18,6 +20,7 @@ LAMBS_RPG
 LAMBS_RPG_RHS
 LAMBS_Suppression
 LAMBS_Turrets
+Looting Enhanced
 memory
 Map Object Finder
 MRB Air Visibility
