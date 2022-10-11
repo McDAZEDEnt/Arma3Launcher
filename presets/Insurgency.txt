@@ -41,7 +41,7 @@ RHSGREF
 RHSSAF
 RHSUSAF
 Simple Craters
-Spotted Enemy Markers
+SEM
 Spyder Addons
 Suppress
 Vindicta (Alpha)
