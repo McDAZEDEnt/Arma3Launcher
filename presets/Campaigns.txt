@@ -1,6 +1,7 @@
 CBA_A3
 Accurate Arsenal-Eden Icons
 Align
+ALiVE
 CUP Terrains - Core
 CUP Terrains - Maps
 CUP Terrains - Maps 2.0
@@ -15,7 +16,7 @@ Fawks' Enhanced NVGs
 Immerse
 JSRS SOUNDMOD
 Light Blue Water Colour Mod
-memory
+m3mory
 MRB Air Visibility
 MRB Vehicle Visibility
 New CSAT (No contact) DVK
@@ -30,5 +31,5 @@ RHSGREF
 RHSSAF
 RHSUSAF
 Simple Craters
-SEM
+Spotted Enemy Markers
 Suppress

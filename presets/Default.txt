@@ -33,7 +33,7 @@ LAMBS_Suppression
 LAMBS_Turrets
 Light Blue Water Colour Mod
 Looting Enhanced
-memory
+m3mory
 Map Object Finder
 MRB Air Visibility
 MRB Vehicle Visibility
@@ -52,13 +52,14 @@ RHSGREF
 RHSSAF
 RHSUSAF
 Simple Craters
-SEM
+Spotted Enemy Markers
 Spyder Addons
 Suppress
 USAF Mod - Fighters
 USAF Mod - Main
 USAF Mod - Utility
 USAF_AC130_BETA
+factions
 Vindicta (Alpha)
 Whiplash Static Animations
 ZEC - Zeus and Eden Templates - Building Compositions

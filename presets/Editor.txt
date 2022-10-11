@@ -3,7 +3,6 @@ CBA_A3
 Accurate Arsenal-Eden Icons
 ace_x
 ACE Interaction Menu Expansion
-ALiVE
 Arsenal Search
 CUP Terrains - Core
 CUP Terrains - Maps
@@ -21,7 +20,7 @@ LAMBS_RPG_RHS
 LAMBS_Suppression
 LAMBS_Turrets
 Looting Enhanced
-memory
+m3mory
 Map Object Finder
 MRB Air Visibility
 MRB Vehicle Visibility
@@ -33,12 +32,13 @@ RHSAFRF
 RHSGREF
 RHSSAF
 RHSUSAF
-SEM
+Spotted Enemy Markers
 Spyder Addons
 USAF Mod - Fighters
 USAF Mod - Main
 USAF Mod - Utility
 USAF_AC130_BETA
+factions
 Whiplash Static Animations
 ZEC - Zeus and Eden Templates - Building Compositions
 ZEI - Zeus and Eden Interiors
