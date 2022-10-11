@@ -15,7 +15,7 @@ Enhanced Movement
 Enhanced Movement Rework
 Enhanced Soundscape
 Fawks' Enhanced NVGs
-FileXT
+$ FileXT
 Immerse
 JSRS SOUNDMOD
 LAMBS_Danger.fsm
@@ -31,6 +31,7 @@ MRB Vehicle Visibility
 New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
 PERSIST - RCO
+$ PERSIST - RCO
 Project SFX- Remastered
 Realengine
 Real Lighting and Weather
