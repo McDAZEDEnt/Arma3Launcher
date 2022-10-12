@@ -10,8 +10,6 @@ Disable 3den Mission Preview Shortcut
 
 ##Content
 Dynamic View Distance
-MRB Air Visibility
-MRB Vehicle Visibility
 New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
 RHSAFRF
