@@ -1,56 +1,69 @@
+##Core
 3den Enhanced
 CBA_A3
-Accurate Arsenal-Eden Icons
+m3mory
+Spotted Enemy Markers
 ace_x
+Realengine
 ACE Interaction Menu Expansion
-Align
+
+##Editor
+Accurate Arsenal-Eden Icons
+Drongos Config Generator
+Drongos Map Population
+Drongos Smooth Operators
+Eden Extended Objects
+NR6 PACK - HAL Evolved
+PERSIST - RCO
+$ PERSIST - RCO
+Spyder Addons
+
+##Content
 CUP Terrains - Core
 CUP Terrains - Maps
 CUP Terrains - Maps 2.0
 Devas Autopilot Mod
-Digital Kompass
-Drongos Config Generator
-Drongos Map Population
-Drongos Smooth Operators
 Dynamic View Distance
-Eden Extended Objects
-Enhanced GPS
-Enhanced Map
 Enhanced Movement
 Enhanced Movement Rework
-Enhanced Soundscape
-Fawks' Enhanced NVGs
-Immerse
-JSRS SOUNDMOD
 LAMBS_Danger.fsm
 LAMBS_RPG
 LAMBS_RPG_RHS
 LAMBS_Suppression
 LAMBS_Turrets
-Light Blue Water Colour Mod
 Looting Enhanced
-m3mory
 MRB Air Visibility
 MRB Vehicle Visibility
 New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
-NR6 PACK - HAL Evolved
-PERSIST - RCO
-Plane Turbulence
-Project SFX- Remastered
-Realengine
-Real Lighting and Weather
-Reduced Haze Mod v3.1
 RHSAFRF
 RHSGREF
 RHSSAF
 RHSUSAF
-Simple Craters
-Spotted Enemy Markers
-Spyder Addons
-Suppress
 USAF Mod - Fighters
 USAF Mod - Main
 USAF Mod - Utility
 USAF_AC130_BETA
+
+##Cosmetic
+Align
+Arsenal Search
+Digital Kompass
+Enhanced GPS
+Enhanced Map
+Fawks' Enhanced NVGs
+Immerse
+Light Blue Water Colour Mod
+Plane Turbulence
+Real Lighting and Weather
+Reduced Haze Mod v3.1
+Simple Craters
+Suppress
+
+##Sound
+Enhanced Soundscape
+JSRS SOUNDMOD
+Project SFX- Remastered
+
+##Operations
 factions
