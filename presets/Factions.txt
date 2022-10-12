@@ -18,6 +18,3 @@ RHSAFRF
 RHSGREF
 RHSSAF
 RHSUSAF
-USAF Mod - Fighters
-USAF Mod - Main
-USAF Mod - Utility
