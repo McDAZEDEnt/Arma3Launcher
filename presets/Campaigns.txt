@@ -1,35 +1,32 @@
+##Core
 CBA_A3
-Accurate Arsenal-Eden Icons
-Align
-ALiVE
-CUP Terrains - Core
-CUP Terrains - Maps
-CUP Terrains - Maps 2.0
-Digital Kompass
-Dynamic View Distance
-Enhanced GPS
-Enhanced Map
-Enhanced Movement
-Enhanced Movement Rework
-Enhanced Soundscape
-Fawks' Enhanced NVGs
-Immerse
-JSRS SOUNDMOD
-Light Blue Water Colour Mod
 m3mory
+Spotted Enemy Markers
+Realengine
+
+##Content
+Dynamic View Distance
 MRB Air Visibility
 MRB Vehicle Visibility
 New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
+
+##Cosmetic
+Align
+Arsenal Search
+Digital Kompass
+Enhanced GPS
+Enhanced Map
+Fawks' Enhanced NVGs
+Immerse
+Light Blue Water Colour Mod
 Plane Turbulence
-Project SFX- Remastered
-Realengine
 Real Lighting and Weather
 Reduced Haze Mod v3.1
-RHSAFRF
-RHSGREF
-RHSSAF
-RHSUSAF
 Simple Craters
-Spotted Enemy Markers
 Suppress
+
+##Sound
+Enhanced Soundscape
+JSRS SOUNDMOD
+Project SFX- Remastered
