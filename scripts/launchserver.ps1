@@ -20,7 +20,7 @@ $port = 2302
 $presetsFolder = "..\presets\"
 $serverConfigPath = "..\config\server.cfg"
 $basicConfigPath = "..\config\basic.cfg"
-$profileName = "serverProfile"
+$profileName = $env:a3name
 $profilesPath = "..\profiles"
 
 # Arma 3 Server process names
