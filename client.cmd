@@ -1,4 +1,4 @@
-echo off
+@echo off
 taskkill /f /im "Dropbox.exe"
 taskkill /f /im "DropboxUpdate.exe"
 cd .\scripts\
