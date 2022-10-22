@@ -78,3 +78,5 @@ Vindicta (Alpha)
 
 ##Operations
 factions
+
+Simple Single Player Cheat Menu

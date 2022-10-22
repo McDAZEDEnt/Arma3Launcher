@@ -30,3 +30,5 @@ Suppress
 Enhanced Soundscape
 JSRS SOUNDMOD
 Project SFX- Remastered
+
+Simple Single Player Cheat Menu
