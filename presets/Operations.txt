@@ -26,11 +26,7 @@ Devas Autopilot Mod
 Dynamic View Distance
 Enhanced Movement
 Enhanced Movement Rework
-LAMBS_Danger.fsm
-LAMBS_RPG
-LAMBS_RPG_RHS
-LAMBS_Suppression
-LAMBS_Turrets
+CF_BAI
 Looting Enhanced
 MRB Air Visibility
 MRB Vehicle Visibility
