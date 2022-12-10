@@ -1,11 +1,11 @@
 3den Enhanced
 Accurate Arsenal-Eden Icons
 CBA_A3
-FileXT
+#FileXT
 Enhanced Movement
-USAF Mod - Main
-ACE Interaction Menu Expansion
-ace_x
+#USAF Mod - Main
+#ACE Interaction Menu Expansion
+#ace_x
 Align
 #ALiVE
 Arsenal Search
@@ -29,14 +29,14 @@ Fawks' Enhanced NVGs
 Immerse
 JSRS SOUNDMOD
 Light Blue Water Colour Mod
-Looting Enhanced
+#Looting Enhanced
 m3mory
 Map Object Finder
 MRB Air Visibility
 MRB Vehicle Visibility
 New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
-NR6
+#NR6
 PERSIST - RCO
 Plane Turbulence
 Project SFX- Remastered
@@ -49,11 +49,11 @@ RHSSAF
 RHSUSAF
 Simple Craters
 Spotted Enemy Markers
-Spyder Addons
+#Spyder Addons
 Suppress
-USAF Mod - Fighters
-USAF Mod - Utility
-USAF_AC130_BETA
-Vindicta (Alpha)
+#USAF Mod - Fighters
+#USAF Mod - Utility
+#USAF_AC130_BETA
+#Vindicta (Alpha)
 #ZEC - Zeus and Eden Templates - Building Compositions
 #ZEI - Zeus and Eden Interiors
