@@ -13,7 +13,7 @@ Drongos Config Generator
 Drongos Map Population
 Drongos Smooth Operators
 Eden Extended Objects
-NR6 PACK - HAL Evolved
+NR6
 PERSIST - RCO
 $ PERSIST - RCO
 Spyder Addons

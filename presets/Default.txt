@@ -16,7 +16,7 @@ Drongos Map Population
 Drongos Smooth Operators
 Eden Extended Objects
 Map Object Finder
-NR6 PACK - HAL Evolved
+NR6
 PERSIST - RCO
 POLPOX's Base Functions
 Spyder Addons
