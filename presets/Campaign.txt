@@ -16,9 +16,9 @@ CUP Terrains - Maps 2.0
 Devas Autopilot Mod
 Digital Kompass
 Disable 3den Mission Preview Shortcut
-Drongos Config Generator
-Drongos Map Population
-Drongos Smooth Operators
+#Drongos Config Generator
+#Drongos Map Population
+#Drongos Smooth Operators
 Dynamic View Distance
 Eden Extended Objects
 Enhanced GPS
@@ -37,7 +37,7 @@ MRB Vehicle Visibility
 New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
 #NR6
-PERSIST - RCO
+#PERSIST - RCO
 Plane Turbulence
 Project SFX- Remastered
 Real Lighting and Weather
