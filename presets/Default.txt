@@ -7,7 +7,6 @@ ACE Interaction Menu Expansion
 ace_x
 Align
 #ALiVE
-Arsenal Search
 CF_BAI
 CUP Terrains - Core
 CUP Terrains - Maps
