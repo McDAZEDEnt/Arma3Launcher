@@ -3,7 +3,6 @@ Accurate Arsenal-Eden Icons
 CBA_A3
 FileXT
 Enhanced Movement
-USAF Mod - Main
 ACE Interaction Menu Expansion
 ace_x
 Align
@@ -51,9 +50,6 @@ Simple Craters
 Spotted Enemy Markers
 Spyder Addons
 Suppress
-USAF Mod - Fighters
-USAF Mod - Utility
-USAF_AC130_BETA
 Vindicta (Alpha)
 ZEC - Zeus and Eden Templates - Building Compositions
 ZEI - Zeus and Eden Interiors
