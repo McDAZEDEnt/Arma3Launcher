@@ -2,6 +2,7 @@ CBA_A3
 ace_x
 NR6
 Drongos Map Population
+Western Sahara - Creator DLC Compatibility Data for Non-Owners
 Arma 3 Aegis
 VSM - ACE3 Compatibility
 VSM All-In-One Collection
