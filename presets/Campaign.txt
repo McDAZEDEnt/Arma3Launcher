@@ -1,5 +1,5 @@
-3den Enhanced
-Accurate Arsenal-Eden Icons
+#3den Enhanced
+#Accurate Arsenal-Eden Icons
 CBA_A3
 #FileXT
 Enhanced Movement
@@ -11,14 +11,14 @@ CF_BAI
 CUP Terrains - Core
 CUP Terrains - Maps
 CUP Terrains - Maps 2.0
-Devas Autopilot Mod
+#Devas Autopilot Mod
 Digital Kompass
-Disable 3den Mission Preview Shortcut
+#Disable 3den Mission Preview Shortcut
 #Drongos Config Generator
 #Drongos Map Population
 #Drongos Smooth Operators
 Dynamic View Distance
-Eden Extended Objects
+#Eden Extended Objects
 Enhanced GPS
 Enhanced Map
 Enhanced Movement Rework
@@ -29,22 +29,22 @@ JSRS SOUNDMOD
 Light Blue Water Colour Mod
 #Looting Enhanced
 m3mory
-Map Object Finder
+#Map Object Finder
 MRB Air Visibility
 MRB Vehicle Visibility
-New CSAT (No contact) DVK
 New CSAT (Overhaul) DVK
+New CSAT (No contact) DVK
 #NR6
 #PERSIST - RCO
-Plane Turbulence
+#Plane Turbulence
 Project SFX- Remastered
 Real Lighting and Weather
 Realengine
 Reduced Haze Mod v3.1
 RHSAFRF
+RHSUSAF
 RHSGREF
 RHSSAF
-RHSUSAF
 Simple Craters
 Spotted Enemy Markers
 #Spyder Addons
