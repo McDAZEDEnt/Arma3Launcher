@@ -20,8 +20,8 @@ $flags = "-connect=localhost -password=1969 -client -hugePages -filePatching"
 # Relative paths to server config files
 $presetsFolder = "..\presets\"
 $serverConfigPath = "..\config\server.cfg"
-$basicConfigPath = "..\config\basic.cfg"
-$profileName = $env:a3name
+$basicConfigPath = "..\config\gfx.cfg"
+$profileName = "hc"
 $profilesPath = "..\profiles"
 
 # Arma 3 Server process names

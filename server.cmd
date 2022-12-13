@@ -6,4 +6,3 @@ echo Hit enter once steam has logged in...
 pause
 call powershell "& '.\launch.ps1'"
 call powershell "& '.\launchclient.ps1'"
-call powershell "& '.\launchclient.ps1'"
