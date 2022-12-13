@@ -13,9 +13,9 @@ $ErrorActionPreference = "Stop"
 
 # Default global values, overriden by user in parameters.json file
 $a3RootPath = "$env:arma3/"
-$serverExeName = "arma3server_x64.exe"
+$serverExeName = "arma3_x64.exe"
 $port = 2302
-$flags = "-hugePages -filePatching"
+$flags = "-connect=127.0.0.1 -client -hugePages -filePatching"
 
 # Relative paths to server config files
 $presetsFolder = "..\presets\"
