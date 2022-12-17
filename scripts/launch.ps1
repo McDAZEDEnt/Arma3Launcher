@@ -20,7 +20,7 @@ $flags = "-noSplash -world=VR -setThreadCharacteristics -hugePages -filePatching
 # Relative paths to server config files
 $presetsFolder = "..\presets\"
 $serverConfigPath = "..\config\server.cfg"
-$basicConfigPath = "..\config\gfx.cfg"
+$basicConfigPath = "..\config\basic.cfg"
 $profileName = $env:a3name
 $profilesPath = "..\profiles"
 

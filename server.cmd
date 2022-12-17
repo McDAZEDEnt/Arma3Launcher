@@ -4,4 +4,4 @@ cd .\scripts\
 start steam://rungameid/
 echo Hit enter once steam has logged in...
 pause
-call powershell "& '.\launchclient.ps1'"
+call powershell "& '.\launchhc.ps1'"

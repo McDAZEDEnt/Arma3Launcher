@@ -13,15 +13,15 @@ $ErrorActionPreference = "Stop"
 
 # Default global values, overriden by user in parameters.json file
 $a3RootPath = "$env:arma3/"
-$serverExeName = "arma3server_x64.exe"
+$serverExeName = "arma3_x64.exe"
 $port = 2302
-$flags = "-hugePages -filePatching"
+$flags = "-name=hc -client -nosound -connect=localhost -password=1969 -port=2302 -hugePages -filePatching"
 
 # Relative paths to server config files
 $presetsFolder = "..\presets\"
 $serverConfigPath = "..\config\server.cfg"
 $basicConfigPath = "..\config\basic.cfg"
-$profileName = $env:a3name
+$profileName = "hc"
 $profilesPath = "..\profiles"
 
 # Arma 3 Server process names
