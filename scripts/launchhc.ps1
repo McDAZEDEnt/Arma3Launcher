@@ -15,14 +15,14 @@ $ErrorActionPreference = "Stop"
 $a3RootPath = "$env:arma3/"
 $serverExeName = "arma3server_x64.exe"
 $port = 2302
-$flags = "-client -nosound -connect=localhost -password=1969 -hugePages -filePatching"
+$flags = "-client -nosound -connect=localhost -password=1969 -hugePages -filePatching -limitFPS=120"
 
 # Relative paths to server config files
 $presetsFolder = "..\presets\"
 $serverConfigPath = "..\config\server.cfg"
 $basicConfigPath = "..\config\basic.cfg"
-$profileName = $env:a3name
-$profilesPath = "..\profiles"
+$profileName = "hc"
+$profilesPath = "..\profiles\hc"
 
 # Arma 3 Server process names
 $arma3server64ProcessName = "arma3server_x64"
