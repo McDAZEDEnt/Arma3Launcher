@@ -12,6 +12,7 @@ CF_BAI
 CUP Terrains - Core
 CUP Terrains - Maps
 CUP Terrains - Maps 2.0
+Digital Kompass
 Disable 3den Mission Preview Shortcut
 Drongos Config Generator
 Drongos Map Population
