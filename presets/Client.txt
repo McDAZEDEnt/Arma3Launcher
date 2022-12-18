@@ -1,7 +1,7 @@
 3den Enhanced
-*Accurate Arsenal-Eden Icons
+#Accurate Arsenal-Eden Icons
 CBA_A3
-*FileXT
+#FileXT
 Enhanced Movement
 ACE Interaction Menu Expansion
 ace_x
@@ -12,8 +12,8 @@ CF_BAI
 CUP Terrains - Core
 CUP Terrains - Maps
 CUP Terrains - Maps 2.0
-*Digital Kompass
-*Disable 3den Mission Preview Shortcut
+#Digital Kompass
+#Disable 3den Mission Preview Shortcut
 Drongos Config Generator
 Drongos Map Population
 Drongos Smooth Operators
@@ -22,7 +22,7 @@ Enhanced GPS
 Enhanced Map
 Enhanced Movement Rework
 Enhanced Soundscape
-*Fawks' Enhanced NVGs
+Fawks' Enhanced NVGs
 Immerse
 JSRS SOUNDMOD
 KAT - Notebook
@@ -30,7 +30,7 @@ LAMBS_Danger.fsm
 Light Blue Water Colour Mod
 Looting Enhanced
 m3mory
-*Map Object Finder
+#Map Object Finder
 MRB Air Visibility
 MRB Sea Vessel Visibility
 MRB Vehicle Visibility
@@ -57,6 +57,6 @@ Spyder Addons
 Suppress
 Vindicta (Alpha)
 WeaponSights Zoom
-*Werthles' Headless Module
-*ZEC - Zeus and Eden Templates - Building Compositions
-*ZEI - Zeus and Eden Interiors
+#Werthles' Headless Module
+#ZEC - Zeus and Eden Templates - Building Compositions
+#ZEI - Zeus and Eden Interiors
