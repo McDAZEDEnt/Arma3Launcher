@@ -15,7 +15,7 @@ $ErrorActionPreference = "Stop"
 $a3RootPath = "$env:arma3/"
 $serverExeName = "arma3server_x64.exe"
 $port = 2302
-$flags = "-client -nosound -connect=localhost -password=1969 -hugePages -filePatching -limitFPS=120"
+$flags = "-client -nosound -connect=localhost -password=1969 -hugePages -filePatching -setThreadCharacteristics -cpuCount=4 -exThreads=7 -malloc=system -limitFPS=75"
 
 # Relative paths to server config files
 $presetsFolder = "..\presets\"
