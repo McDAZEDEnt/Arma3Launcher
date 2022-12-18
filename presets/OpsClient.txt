@@ -61,9 +61,8 @@ Spyder Addons
 Suppress
 Vindicta (Alpha)
 WeaponSights Zoom
-$Werthles' Headless Module
+Werthles' Headless Module
 $ZEC - Zeus and Eden Templates - Building Compositions
 $ZEI - Zeus and Eden Interiors
-*Werthles' Headless Module
 *ZEC - Zeus and Eden Templates - Building Compositions
 *ZEI - Zeus and Eden Interiors
