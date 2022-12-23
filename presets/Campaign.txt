@@ -47,7 +47,7 @@ Reduced Haze Mod v3.1
 #RHSUSAF
 #RHSGREF
 #RHSSAF
-RHSWeaponSights Zoom
+#RHSWeaponSights Zoom
 #saroTweakMapFPS
 #Seb's Briefing Table
 Simple Craters
