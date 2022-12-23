@@ -31,6 +31,7 @@ KAT - Notebook
 LAMBS_Danger.fsm
 Light Blue Water Colour Mod
 Looting Enhanced
+$m3mory
 m3mory
 $Map Object Finder
 *Map Object Finder
