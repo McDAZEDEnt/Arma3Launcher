@@ -8,6 +8,7 @@ ACE Interaction Menu Expansion
 ace_x
 AGC - Advanced Garbage Collector
 Align
+Antistasi - The Mod
 Automatic ViewDistance
 CF_BAI
 CUP Terrains - Core
