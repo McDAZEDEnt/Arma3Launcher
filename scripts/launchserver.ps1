@@ -13,20 +13,20 @@ $ErrorActionPreference = "Stop"
 
 # Default global values, overriden by user in parameters.json file
 $a3RootPath = "$env:arma3/"
-$serverExeName = "arma3server_x64.exe"
+$serverExeName = "arma3_x64.exe"
 $port = 2302
-$flags = "-nosound -hugePages -filePatching -setThreadCharacteristics -cpuCount=4 -exThreads=7 -malloc=system -limitFPS=75"
+$flags = "-setupHost -noPause -skipIntro -noSplash -hugePages -filePatching -setThreadCharacteristics -cpuCount=4 -exThreads=7 -malloc=system -limitFPS=75"
 
 # Relative paths to server config files
 $presetsFolder = "..\presets\"
 $serverConfigPath = "..\config\server.cfg"
 $basicConfigPath = "..\config\basic.cfg"
-$profileName = "server"
-$profilesPath = "..\profiles\server"
+$profileName = $env:a3name
+$profilesPath = "..\profiles"
 
 # Arma 3 Server process names
-$arma3server64ProcessName = "arma3server_x64"
-$arma3serverProcessName = "arma3server"
+$arma3server64ProcessName = "arma3_x64"
+$arma3serverProcessName = "arma3_x64"
 
 # Creator DLCs name and path resolution table
 $CDLCs = @{
@@ -57,9 +57,9 @@ function Launch()
 
 #   $launcherParameters = Read-LauncherParametersFile $launcherParametersFile
 
-    $a3RootPath = "$env:arma3/"
-    $serverExeName = "arma3server_x64.exe"
-    $port = 2302
+	$a3RootPath = "$env:arma3/"
+	$serverExeName = "arma3_x64.exe"
+	$port = 2302
     $webhook = $launcherParameters.Webhook
     $executeWebhook = $webhook.Enabled
 
@@ -99,11 +99,11 @@ function Launch()
     Show-OptionalMods -ModNames $mods.optional
     Write-Host
 
-#    if ($NoKeyCopying -ne $true)
-#    {
-#        Clear-KeysFolder
-#        Copy-Keys -ModNames $($mods.global + $mods.server + $mods.optional)
-#    }
+    if ($NoKeyCopying -ne $true)
+    {
+        Clear-KeysFolder
+        Copy-Keys -ModNames $($mods.global + $mods.server + $mods.optional)
+    }
 
     if ($executeWebhook)
     {

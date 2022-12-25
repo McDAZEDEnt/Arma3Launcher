@@ -13,7 +13,7 @@ $ErrorActionPreference = "Stop"
 
 # Default global values, overriden by user in parameters.json file
 $a3RootPath = "$env:arma3/"
-$serverExeName = "arma3server_x64.exe"
+$serverExeName = "arma3_x64.exe"
 $port = 2302
 $flags = "-client -nosound -connect=localhost -password=1969 -hugePages -filePatching -setThreadCharacteristics -cpuCount=4 -exThreads=7 -malloc=system -limitFPS=75"
 
@@ -25,8 +25,8 @@ $profileName = "hc"
 $profilesPath = "..\profiles\hc"
 
 # Arma 3 Server process names
-$arma3server64ProcessName = "arma3server_x64"
-$arma3serverProcessName = "arma3server"
+$arma3server64ProcessName = "arma3_x64"
+$arma3serverProcessName = "arma3_x64"
 
 # Creator DLCs name and path resolution table
 $CDLCs = @{
@@ -58,7 +58,7 @@ function Launch()
 #   $launcherParameters = Read-LauncherParametersFile $launcherParametersFile
 
     $a3RootPath = "$env:arma3/"
-    $serverExeName = "arma3server_x64.exe"
+    $serverExeName = "arma3_x64.exe"
     $port = 2302
     $webhook = $launcherParameters.Webhook
     $executeWebhook = $webhook.Enabled

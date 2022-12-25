@@ -25,8 +25,8 @@ $profileName = $env:a3name
 $profilesPath = "..\profiles"
 
 # Arma 3 Server process names
-$arma3server64ProcessName = "arma3server_x64"
-$arma3serverProcessName = "arma3server"
+$arma3server64ProcessName = "arma3_x64"
+$arma3serverProcessName = "arma3_x64"
 
 # Creator DLCs name and path resolution table
 $CDLCs = @{
