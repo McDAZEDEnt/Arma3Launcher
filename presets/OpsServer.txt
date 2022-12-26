@@ -1,5 +1,4 @@
 3den Enhanced
-A3A
 Accurate Arsenal-Eden Icons
 CBA_A3
 ACE Interaction Menu Expansion
@@ -60,6 +59,7 @@ Simplex Support Services
 Spotted Enemy Markers
 Spyder Addons
 Suppress
+Antistasi
 Vindicta (Alpha)
 WeaponSights Zoom
 Werthles' Headless Module
