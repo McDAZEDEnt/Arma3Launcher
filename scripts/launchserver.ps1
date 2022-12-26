@@ -99,11 +99,11 @@ function Launch()
     Show-OptionalMods -ModNames $mods.optional
     Write-Host
 
-    if ($NoKeyCopying -ne $true)
-    {
-        Clear-KeysFolder
-        Copy-Keys -ModNames $($mods.global + $mods.server + $mods.optional)
-    }
+#    if ($NoKeyCopying -ne $true)
+#    {
+#        Clear-KeysFolder
+#        Copy-Keys -ModNames $($mods.global + $mods.server + $mods.optional)
+#    }
 
     if ($executeWebhook)
     {
