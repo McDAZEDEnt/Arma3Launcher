@@ -1,15 +1,15 @@
 3den Enhanced
+A3A
 Accurate Arsenal-Eden Icons
 CBA_A3
-$FileXT
-*FileXT
-Enhanced Movement
 ACE Interaction Menu Expansion
 ace_x
 AGC - Advanced Garbage Collector
 Align
-Antistasi - The Mod
 Automatic ViewDistance
+Enhanced Movement
+$FileXT
+*FileXT
 CF_BAI
 CUP Terrains - Core
 CUP Terrains - Maps
@@ -32,7 +32,6 @@ KAT - Notebook
 LAMBS_Danger.fsm
 Light Blue Water Colour Mod
 Looting Enhanced
-$m3mory
 m3mory
 $Map Object Finder
 *Map Object Finder

@@ -1,14 +1,14 @@
 3den Enhanced
+A3A
 Accurate Arsenal-Eden Icons
 CBA_A3
-FileXT
-Enhanced Movement
 ACE Interaction Menu Expansion
 ace_x
 AGC - Advanced Garbage Collector
 Align
-Antistasi - The Mod
 Automatic ViewDistance
+Enhanced Movement
+FileXT
 CF_BAI
 CUP Terrains - Core
 CUP Terrains - Maps
