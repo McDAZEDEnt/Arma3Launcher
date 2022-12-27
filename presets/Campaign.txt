@@ -1,28 +1,3 @@
-CBA_A3
-Align
-Automatic ViewDistance
-Enhanced Movement
-CF_BAI
-Digital Kompass
-Enhanced GPS
-Enhanced Map
-Enhanced Movement Rework
-Enhanced Soundscape
-Fawks' Enhanced NVGs
-Immerse
-JSRS SOUNDMOD
-Light Blue Water Colour Mod
-m3mory
-MRB Air Visibility
-MRB Sea Vessel Visibility
-MRB Vehicle Visibility
-New CSAT (Overhaul) DVK
-New CSAT (No contact) DVK
-Project SFX- Remastered
-Real Lighting and Weather
-Realengine
-Reduced Haze Mod v3.1
-Simple Craters
-Spotted Enemy Markers
-Suppress
-WeaponSights Zoom
+version https://git-lfs.github.com/spec/v1
+oid sha256:853cfbbcb8aa3041a3706333b64d1bd01ed3e64afd239e16ea4989512d343681
+size 546
