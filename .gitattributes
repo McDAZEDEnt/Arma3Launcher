@@ -39,6 +39,7 @@
 *.ps1 !filter !diff !merge
 *.sh !filter !diff !merge
 *.sqf !filter !diff !merge
+*.txt !filter !diff !merge
 *.uproject !filter !diff !merge
 .gitattributes !filter !diff !merge
 .gitignore !filter !diff !merge
