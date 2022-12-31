@@ -10,7 +10,6 @@ AGC - Advanced Garbage Collector
 Align
 Animated Recoil coefficient changer
 Arsenal Search
-AutoCam
 Automatic ViewDistance
 Better Inventory
 BloodLust

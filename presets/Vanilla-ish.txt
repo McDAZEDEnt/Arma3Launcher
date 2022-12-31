@@ -1,9 +1,6 @@
 CBA_A3
 Enhanced Movement
-Advanced Weapon Mounting
 Align
-Animated Recoil coefficient changer
-AutoCam
 Automatic ViewDistance
 Better Inventory
 BloodLust
@@ -20,14 +17,12 @@ Fawks' Enhanced NVGs
 Immerse
 JSRS SOUNDMOD
 Light Blue Water Colour Mod
-Limited Gun Movement
 m3mory
 MRB Air Visibility
 MRB Sea Vessel Visibility
 MRB Vehicle Visibility
 New CSAT (Overhaul) DVK
 New CSAT (No contact) DVK
-No More Aircraft Bouncing
 Project SFX- Footsteps
 Project SFX- Remastered
 Real Lighting and Weather
