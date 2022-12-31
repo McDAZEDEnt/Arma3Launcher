@@ -1,29 +1,42 @@
 CBA_A3
-Align
-Automatic ViewDistance
 Enhanced Movement
+Advanced Weapon Mounting
+Align
+Animated Recoil coefficient changer
+AutoCam
+Automatic ViewDistance
+Better Inventory
 BloodLust
+Bullets_Hit
+Cinematic Lens Flare
 Digital Kompass
+DUI - Squad Radar
 Enhanced GPS
 Enhanced Map
 Enhanced Movement Rework
 Enhanced Soundscape
+Enhanced Video Settings
 Fawks' Enhanced NVGs
 Immerse
 JSRS SOUNDMOD
 Light Blue Water Colour Mod
+Limited Gun Movement
 m3mory
 MRB Air Visibility
 MRB Sea Vessel Visibility
 MRB Vehicle Visibility
 New CSAT (Overhaul) DVK
 New CSAT (No contact) DVK
-Plane Turbulence
+No More Aircraft Bouncing
+Project SFX- Footsteps
 Project SFX- Remastered
 Real Lighting and Weather
 Realengine
 Reduced Haze Mod v3.1
 Simple Craters
+Sonus
+Splendid Smoke Rework
 Spotted Enemy Markers
 Suppress
 WeaponSights Zoom
+WebKnight Flashlights and Headlamps
