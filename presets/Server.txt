@@ -1,14 +1,17 @@
 $3den Enhanced
+$Pythia
+$7erra's Editing Extensions
 Accurate Arsenal-Eden Icons
 CBA_A3
-ace_x
 ACE Interaction Menu Expansion
+ace_x
 Enhanced Movement
 $FileXT
 Advanced Weapon Mounting
 AGC - Advanced Garbage Collector
 Align
 Animated Recoil coefficient changer
+Antistasi
 Arsenal Search
 Automatic ViewDistance
 Better Inventory
@@ -19,10 +22,11 @@ CUP Terrains - Core
 CUP Terrains - Maps
 CUP Terrains - Maps 2.0
 $Disable 3den Mission Preview Shortcut
-$Drongos Config Generator
+Drongos Config Generator
 Drongos Map Population
 Drongos Smooth Operators
 DUI - Squad Radar
+$Eden 2.0
 $Eden Extended Objects
 Enhanced GPS
 Enhanced Map
@@ -67,7 +71,6 @@ Spotted Enemy Markers
 Spyder Addons
 Suppress
 Swim Faster
-Antistasi
 Vindicta (Alpha)
 WeaponSights Zoom
 WebKnight Flashlights and Headlamps
