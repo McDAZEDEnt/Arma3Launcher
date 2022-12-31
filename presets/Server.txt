@@ -1,4 +1,3 @@
-$3den Enhanced
 $Pythia
 $7erra's Editing Extensions
 Accurate Arsenal-Eden Icons
@@ -27,6 +26,7 @@ Drongos Map Population
 Drongos Smooth Operators
 DUI - Squad Radar
 $Eden 2.0
+$3den Enhanced
 $Eden Extended Objects
 Enhanced GPS
 Enhanced Map
