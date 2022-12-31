@@ -1,8 +1,8 @@
 3den Enhanced
 Accurate Arsenal-Eden Icons
 CBA_A3
-ACE Interaction Menu Expansion
 ace_x
+ACE Interaction Menu Expansion
 Enhanced Movement
 FileXT
 Advanced Weapon Mounting
@@ -12,14 +12,12 @@ Animated Recoil coefficient changer
 Arsenal Search
 Automatic ViewDistance
 Better Inventory
-BloodLust
 Bullets_Hit
 CF_BAI
 Cinematic Lens Flare
 CUP Terrains - Core
 CUP Terrains - Maps
 CUP Terrains - Maps 2.0
-Digital Kompass
 Disable 3den Mission Preview Shortcut
 Drongos Config Generator
 Drongos Map Population
@@ -34,7 +32,6 @@ Enhanced Video Settings
 Fawks' Enhanced NVGs
 Immerse
 JSRS SOUNDMOD
-KAT - Notebook
 Ladder Tweak 2x
 LAMBS_Danger.fsm
 Light Blue Water Colour Mod
@@ -57,16 +54,15 @@ Real Lighting and Weather
 Realengine
 Reduced Haze Mod v3.1
 RHSAFRF
-RHSUSAF
 RHSGREF
 RHSSAF
+RHSUSAF
 RHSWeaponSights Zoom
 saroTweakMapFPS
 Seb's Briefing Table
 Simple Craters
 Simplex Support Services
 Sonus
-Splendid Smoke Rework
 Spotted Enemy Markers
 Spyder Addons
 Suppress

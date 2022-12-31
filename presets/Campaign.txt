@@ -1,12 +1,11 @@
 CBA_A3
 Enhanced Movement
+Advanced Weapon Mounting
 Align
 Automatic ViewDistance
 Better Inventory
-BloodLust
 Bullets_Hit
 Cinematic Lens Flare
-Digital Kompass
 DUI - Squad Radar
 Enhanced GPS
 Enhanced Map
@@ -23,15 +22,32 @@ MRB Sea Vessel Visibility
 MRB Vehicle Visibility
 New CSAT (Overhaul) DVK
 New CSAT (No contact) DVK
+No More Aircraft Bouncing
+NR6
+Plane Turbulence
 Project SFX- Footsteps
 Project SFX- Remastered
 Real Lighting and Weather
 Realengine
 Reduced Haze Mod v3.1
+RHSAFRF
+RHSGREF
+RHSSAF
+RHSUSAF
+RHSWeaponSights Zoom
+saroTweakMapFPS
+Seb's Briefing Table
 Simple Craters
+Simplex Support Services
 Sonus
-Splendid Smoke Rework
 Spotted Enemy Markers
+Spyder Addons
 Suppress
+Swim Faster
+Antistasi
+Vindicta (Alpha)
 WeaponSights Zoom
 WebKnight Flashlights and Headlamps
+Werthles' Headless Module
+$ZEC - Zeus and Eden Templates - Building Compositions
+$ZEI - Zeus and Eden Interiors
